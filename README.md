@@ -15,4 +15,4 @@ Sobre o módulo desenvolvido - hardware eletrônico de aquisição de dados e co
 - projeto para impressora 3D do invólucro
 
 A licença é GPL-3.0. Em caso de uso, cite nosso trabalho.     
-/*Adionar texto fututo com o formato para citação*/ 
+/*Adicionar texto fututo com o formato para citação*/ 
